@@ -1,0 +1,36 @@
+Mono path[0] = 'D:/Project/Unity/UFO Game/Builds/UFO Buider 1_Data/Managed'
+Mono path[1] = 'D:/Project/Unity/UFO Game/Builds/UFO Buider 1_Data/Mono'
+Mono config path = 'D:/Project/Unity/UFO Game/Builds/UFO Buider 1_Data/Mono/etc'
+PlayerConnection initialized from D:/Project/Unity/UFO Game/Builds/UFO Buider 1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55481
+Multi-casting "[IP] 10.88.113.168 [Port] 55481 [Flags] 2 [Guid] 1788605653 [EditorId] 2202388555 [Version] 1048832 [Id] WindowsPlayer(CPP00112726C) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55481]
+PlayerConnection already initialized - listening to [0.0.0.0:55481]
+Player data archive not found at `D:/Project/Unity/UFO Game/Builds/UFO Buider 1_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD FirePro V4900 (FireGL V) (ID=0x6749)
+    Vendor:   ATI
+    VRAM:     1000 MB
+    Driver:   9.3.3.0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.283 seconds
+Platform assembly: D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Project\Unity\UFO Game\Builds\UFO Buider 1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.920991 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d6c -> priority: 1 
+  Thread -> id: 2590 -> priority: 1 
